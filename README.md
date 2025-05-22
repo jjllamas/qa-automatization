@@ -1,9 +1,5 @@
 # qa-automatization
 
-Aquí tienes un resumen detallado de todo lo que necesitas saber sobre automatización de pruebas según el path de formación que estás siguiendo, organizado por módulos:
-
----
-
 ## 🧭 **Módulo 0: XPath, Selectores HTML y CSS Selector**
 
 ### Objetivo:
@@ -266,7 +262,3 @@ pytest --html=report.html
 6. **Control de flujos asíncronos y esperas**:
 
    * Selenium y Playwright permiten manejar esperas explícitas e implícitas.
-
----
-
-¿Quieres que prepare algún proyecto de ejemplo completo con Behave, Robot o Playwright para que puedas practicar o probar tú mismo?
